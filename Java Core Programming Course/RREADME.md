@@ -18,9 +18,9 @@ https://www.youtube.com/watch?v=m12gyQPQFjA&list=PLo9fObh_Mv60-q4A-i5pK9XrsaZEZ3
 
 ## Section 1: 
 	
-	Java Basics, Variables, Constants, Intrinsic Datatypes, Arithmetic operators
+	Java Basics, Variables, Constants, Intrinsic Data types, Arithmetic operators
 	Bitwise operators, Shift Operators. Implicit and Explicit Casting between
-	Datatypes. 
+	Data types. 
 	
 	Quizzes Related to section 
 	----------------------------------------------------------------
